@@ -11,24 +11,6 @@
 
   <br/>
 
-  <!-- 3D Contribution Graph -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
-    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green.svg">
-    <img alt="github-profile-3d-contrib" src="profile-3d-contrib/profile-green.svg">
-  </picture>
-
-  <br/>
-
-  <p align="center">
-    <a href="https://github.com/lllllan02">
-      <img src="https://github-readme-stats.vercel.app/api?username=lllllan02&show_icons=true&theme=transparent&hide_border=true" alt="lllllan02's GitHub stats" />
-    </a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lllllan02&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" />
-  </p>
-
-  <br/>
-
   <div>
     <b>我的朋友们</b>
     <br/><br/>
@@ -42,5 +24,23 @@
       </a>
     </div>
   </div>
+
+  <br/>
+
+  <!-- 3D Contribution Graph -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green.svg">
+    <img alt="github-profile-3d-contrib" src="profile-3d-contrib/profile-green.svg">
+  </picture>
+
+  <br/>
+
+  <p align="center">
+    <a href="https://github.com/lllllan02">
+      <img src="https://github-readme-stats.vercel.app/api?username=lllllan02&show_icons=true&theme=dark" alt="lllllan02's GitHub stats" />
+    </a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lllllan02&layout=compact&theme=dark" alt="Top Langs" />
+  </p>
 
 </div>
