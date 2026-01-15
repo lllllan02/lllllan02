@@ -30,22 +30,8 @@
   <!-- 3D Contribution Graph -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
-    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green.svg">
-    <img alt="github-profile-3d-contrib" src="profile-3d-contrib/profile-green.svg">
-  </picture>
-
-  <br/>
-
-  <picture>
-    <source
-      srcset="https://github.com/lllllan02/lllllan02/blob/main/profile-3d-contrib/profile-night-green.svg"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github.com/lllllan02/lllllan02/blob/main/profile-3d-contrib/profile-season-animate.svg"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img align="center" src="https://github.com/lllllan02/lllllan02/blob/main/profile-3d-contrib/profile-season-animate.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg">
+    <img alt="github-profile-3d-contrib" src="profile-3d-contrib/profile-season-animate.svg">
   </picture>
 
 </div>
